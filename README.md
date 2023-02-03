@@ -1,2 +1,1 @@
-Hello World!
-some new changes
+Hello world!
